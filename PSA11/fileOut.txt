@@ -1,0 +1,4 @@
+0 0 0 0 Wrench
+1 0 3 0 Tire
+2 0 4 0 Battery
+3 0 4 0 Spark Plug
